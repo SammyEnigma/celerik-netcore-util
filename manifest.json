@@ -1,0 +1,446 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/source/DocFx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.ArgumentNullOrEmptyException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.ArgumentNullOrEmptyException.html",
+          "hash": "+f17hAtRhkE6fKKDNkCOZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.AzureTableStorageClient-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.AzureTableStorageClient-1.html",
+          "hash": "kMa3WExdj7qc4FO8aZTw2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.CodeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.CodeAttribute.html",
+          "hash": "1XC7I0Z6tKqON5HLx54EIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.ConvertUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.ConvertUtility.html",
+          "hash": "ujA6QlfTWIC7m1sQlHRMsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.CryptoUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.CryptoUtility.html",
+          "hash": "WW/VlceKtfO1mLuBDYgmKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.EmbeddedFileUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.EmbeddedFileUtility.html",
+          "hash": "uccm8nvRkJDeD+O6t6r7ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.EnumDescriptionJsonConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.EnumDescriptionJsonConverter.html",
+          "hash": "qiYpbuWvhyev7Aub+0QH1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.EnumUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.EnumUtility.html",
+          "hash": "i60+dI7v0CXEaS9y0kBQSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.ExceptionChecker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.ExceptionChecker.html",
+          "hash": "WM6n6NIreYAydHjjbVPArw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.FileUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.FileUtility.html",
+          "hash": "NTOXHt5vQJpCQPP4h5R31g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.ITableStorageClient-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.ITableStorageClient-1.html",
+          "hash": "wUrSOCdGpwXWf2/FxnRdvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.JsonStringLocalizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.JsonStringLocalizer.html",
+          "hash": "Yw8kTXSa4k7lV52TM/LSEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.JsonStringLocalizerFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.JsonStringLocalizerFactory.html",
+          "hash": "OoTkeg4G4vyzT/DcMqLBOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.LocalDate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.LocalDate.html",
+          "hash": "zUXSgV/DhPoC+ay4d6gSgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.MaximumExceedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.MaximumExceedException.html",
+          "hash": "hYfZBhGqL0LJOT2T5hVgJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.MinimunExceedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.MinimunExceedException.html",
+          "hash": "4km2Pvn/1HnnnKcI7WvuIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.MockTableStorageClient-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.MockTableStorageClient-1.html",
+          "hash": "J3IPm22DT0CbDNbDAyRbqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.PropNullException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.PropNullException.html",
+          "hash": "vHInQpvpc+yiHbB8DMAzKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.PropNullOrEmptyException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.PropNullOrEmptyException.html",
+          "hash": "spxPts5ct8rtn0OhyA9Xew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.QueryUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.QueryUtility.html",
+          "hash": "4p+03PDIUTrkddm3qX69xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.SerializeAllContractResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.SerializeAllContractResolver.html",
+          "hash": "gsJ3PFQUl9S35ZDUImhH/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.StackTraceUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.StackTraceUtility.html",
+          "hash": "caTu4iiR+IsdHLGfbQwsQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.StringUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.StringUtility.html",
+          "hash": "rmkqJtR0LWB3fBW5wyKFbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.TableStorageClient-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.TableStorageClient-1.html",
+          "hash": "XWOoL5mcdW3EmSX4Zn48jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.TableStorageConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.TableStorageConfig.html",
+          "hash": "LGl3F6PAkND3USbLm42CwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.TableStorageException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.TableStorageException.html",
+          "hash": "8Mnd8oDQ2KP56vC0V8df9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.TableStorageFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.TableStorageFactory.html",
+          "hash": "KE1vmF3InEXbMfFdWWXkLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.TableStorageProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.TableStorageProvider.html",
+          "hash": "3RihIsvAHWDwk4o2pgfuwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.TableStorageStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.TableStorageStrategy.html",
+          "hash": "WRJnx4XHRoyziuyPK+tadw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.UtilResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.UtilResources.html",
+          "hash": "NpeU6iqd5U39hEEyaxkEFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.ValidateUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.ValidateUtility.html",
+          "hash": "I0Fu2z4F/gC3NxlFxzvrDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Celerik.NetCore.Util.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Celerik.NetCore.Util.html",
+          "hash": "qtmQHdGPZyPdzBufFt52sw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "hBF4tBpyHTpG363IuA2n5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 32,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
